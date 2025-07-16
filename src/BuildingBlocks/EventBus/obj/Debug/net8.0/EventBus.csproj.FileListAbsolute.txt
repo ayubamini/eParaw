@@ -1,0 +1,11 @@
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\bin\Debug\net8.0\EventBus.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\bin\Debug\net8.0\EventBus.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\bin\Debug\net8.0\EventBus.pdb
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\refint\EventBus.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.pdb
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\ref\EventBus.dll

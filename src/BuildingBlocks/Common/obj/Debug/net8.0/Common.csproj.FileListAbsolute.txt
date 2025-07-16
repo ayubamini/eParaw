@@ -1,0 +1,11 @@
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\bin\Debug\net8.0\Common.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\bin\Debug\net8.0\Common.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\bin\Debug\net8.0\Common.pdb
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\refint\Common.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.pdb
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\ref\Common.dll

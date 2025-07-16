@@ -1,0 +1,11 @@
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll

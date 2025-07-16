@@ -1,0 +1,15 @@
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.AssemblyReference.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll

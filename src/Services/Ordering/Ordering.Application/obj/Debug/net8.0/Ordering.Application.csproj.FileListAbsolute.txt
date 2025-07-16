@@ -1,0 +1,12 @@
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Application.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\bin\Debug\net8.0\Ordering.Application.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.csproj.AssemblyReference.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\refint\Ordering.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\Ordering.Application.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Application\obj\Debug\net8.0\ref\Ordering.Application.dll

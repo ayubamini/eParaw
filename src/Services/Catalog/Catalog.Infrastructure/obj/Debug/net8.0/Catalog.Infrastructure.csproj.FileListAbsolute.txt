@@ -1,0 +1,17 @@
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.runtimeconfig.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Infrastructure.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Catalog.Domain.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.csproj.AssemblyReference.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog..168C4A48.Up2Date
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\refint\Catalog.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.genruntimeconfig.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\ref\Catalog.Infrastructure.dll

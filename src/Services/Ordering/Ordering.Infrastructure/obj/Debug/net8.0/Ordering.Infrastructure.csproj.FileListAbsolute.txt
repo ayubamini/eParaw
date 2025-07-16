@@ -1,0 +1,14 @@
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.deps.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.runtimeconfig.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\refint\Ordering.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.pdb
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.genruntimeconfig.cache
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\ref\Ordering.Infrastructure.dll
