@@ -2,7 +2,7 @@ using Catalog.Domain.Common;
 
 namespace Catalog.Domain.Entities
 {
-    public class Category : EntityBase, IAgreegateRoot
+    public class Category : EntityBase, IAggregateRoot
     {
         public string Name { get; private set; }
         public string Description { get; private set; }
@@ -11,9 +11,7 @@ namespace Catalog.Domain.Entities
 
         private readonly List<Product> _products = new();
         public IReadOnlyCollection<Product> Products => _products.AsReadOnly();
-
         protected Category() { }
-
         public Category(string name, string description, string imageUrl = null)
         {
             SetName(name);

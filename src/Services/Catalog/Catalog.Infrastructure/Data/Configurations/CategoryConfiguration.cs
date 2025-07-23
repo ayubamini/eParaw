@@ -45,11 +45,11 @@ namespace Catalog.Infrastructure.Data.Configurations
 
             // Seed data
             builder.HasData(
-                new { Id = 1, Name = "Electronics", Description = "Electronic devices and accessories", IsActive = true, CreatedAt = DateTime.UtcNow },
-                new { Id = 2, Name = "Clothing", Description = "Men's and Women's clothing", IsActive = true, CreatedAt = DateTime.UtcNow },
-                new { Id = 3, Name = "Books", Description = "Books and educational materials", IsActive = true, CreatedAt = DateTime.UtcNow },
-                new { Id = 4, Name = "Home & Garden", Description = "Home appliances and garden tools", IsActive = true, CreatedAt = DateTime.UtcNow },
-                new { Id = 5, Name = "Sports & Outdoors", Description = "Sports equipment and outdoor gear", IsActive = true, CreatedAt = DateTime.UtcNow }
+                new { Id = 1, Name = "Electronics", Description = "Electronic devices and accessories", ImageUrl = "/images/categories/electronics.jpg", IsActive = true, CreatedAt = DateTime.UtcNow },
+                new { Id = 2, Name = "Clothing", Description = "Men's and Women's clothing", ImageUrl = "/images/categories/clothing.jpg", IsActive = true, CreatedAt = DateTime.UtcNow },
+                new { Id = 3, Name = "Books", Description = "Books and educational materials", ImageUrl = "/images/categories/books.jpg", IsActive = true, CreatedAt = DateTime.UtcNow },
+                new { Id = 4, Name = "Home & Garden", Description = "Home appliances and garden tools", ImageUrl = "/images/categories/home-garden.jpg", IsActive = true, CreatedAt = DateTime.UtcNow },
+                new { Id = 5, Name = "Sports & Outdoors", Description = "Sports equipment and outdoor gear", ImageUrl = "/images/categories/sports.jpg", IsActive = true, CreatedAt = DateTime.UtcNow }
             );
         }
     }

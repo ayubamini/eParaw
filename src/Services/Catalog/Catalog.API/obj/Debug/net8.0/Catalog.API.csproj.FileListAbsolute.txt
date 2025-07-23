@@ -134,3 +134,5 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Deb
 C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
+C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs

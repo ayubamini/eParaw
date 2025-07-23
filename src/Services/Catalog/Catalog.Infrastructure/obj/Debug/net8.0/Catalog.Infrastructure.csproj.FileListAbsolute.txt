@@ -15,3 +15,4 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastruct
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.genruntimeconfig.cache
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\ref\Catalog.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.sourcelink.json

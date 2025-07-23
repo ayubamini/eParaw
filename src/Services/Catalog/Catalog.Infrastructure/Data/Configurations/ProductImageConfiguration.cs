@@ -36,4 +36,5 @@ namespace Catalog.Infrastructure.Data.Configurations
             builder.HasIndex(i => new { i.ProductId, i.IsMain });
         }
     }
+
 }

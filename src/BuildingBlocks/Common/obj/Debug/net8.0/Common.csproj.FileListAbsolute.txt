@@ -9,3 +9,4 @@ C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8
 C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\refint\Common.dll
 C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.pdb
 C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\ref\Common.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\Common\obj\Debug\net8.0\Common.sourcelink.json

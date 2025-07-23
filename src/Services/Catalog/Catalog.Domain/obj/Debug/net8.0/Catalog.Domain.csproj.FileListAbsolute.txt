@@ -9,3 +9,4 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.sourcelink.json

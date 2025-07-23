@@ -9,3 +9,4 @@ C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\ne
 C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\refint\EventBus.dll
 C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.pdb
 C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\ref\EventBus.dll
+C:\My Drive\Programming\Projects\eParaw\src\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.sourcelink.json

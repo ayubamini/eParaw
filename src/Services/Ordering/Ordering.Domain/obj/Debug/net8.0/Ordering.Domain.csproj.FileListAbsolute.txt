@@ -9,3 +9,4 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Domain\ob
 C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\refint\Ordering.Domain.dll
 C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\ref\Ordering.Domain.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.Domain\obj\Debug\net8.0\Ordering.Domain.sourcelink.json

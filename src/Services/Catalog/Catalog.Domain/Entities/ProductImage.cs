@@ -9,8 +9,6 @@ public class ProductImage : EntityBase
     public bool IsMain { get; private set; }
     public int ProductId { get; private set; }
 
-    protected ProductImage() { }
-
     public ProductImage(string url, string altText, bool isMain = false)
     {
         if (string.IsNullOrWhiteSpace(url))

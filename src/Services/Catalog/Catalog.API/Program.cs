@@ -1,6 +1,7 @@
+using Catalog.API.Middleware;
 using Catalog.Application;
 using Catalog.Infrastructure;
-using Catalog.API.Middleware;
+using Microsoft.EntityFrameworkCore;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -63,9 +64,28 @@ app.MapHealthChecks("/health");
 using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<Catalog.Infrastructure.Data.CatalogContext>();
-    if (app.Environment.IsDevelopment())
+    var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
+
+    try
     {
-        await context.Database.EnsureCreatedAsync();
+        logger.LogInformation("Migrating database associated with context {DbContextName}", typeof(Catalog.Infrastructure.Data.CatalogContext).Name);
+
+        if (app.Environment.IsDevelopment())
+        {
+            await context.Database.EnsureCreatedAsync();
+            // Or use migrations:
+            // await context.Database.MigrateAsync();
+        }
+        else
+        {
+            await context.Database.MigrateAsync();
+        }
+
+        logger.LogInformation("Migrated database associated with context {DbContextName}", typeof(Catalog.Infrastructure.Data.CatalogContext).Name);
+    }
+    catch (Exception ex)
+    {
+        logger.LogError(ex, "An error occurred while migrating the database used on context {DbContextName}", typeof(Catalog.Infrastructure.Data.CatalogContext).Name);
     }
 }
 

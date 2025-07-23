@@ -12,3 +12,4 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\Identity\Identity.Infrastru
 C:\My Drive\Programming\Projects\eParaw\src\Services\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.genruntimeconfig.cache
 C:\My Drive\Programming\Projects\eParaw\src\Services\Identity\Identity.Infrastructure\obj\Debug\net8.0\ref\Identity.Infrastructure.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Identity\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.sourcelink.json

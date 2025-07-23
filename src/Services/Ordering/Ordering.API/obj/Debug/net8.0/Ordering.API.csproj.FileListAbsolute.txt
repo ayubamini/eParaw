@@ -150,3 +150,4 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.API\obj\D
 C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.API\obj\Debug\net8.0\Ordering.API.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.API\obj\Debug\net8.0\Ordering.API.genruntimeconfig.cache
 C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.API\obj\Debug\net8.0\ref\Ordering.API.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Ordering\Ordering.API\obj\Debug\net8.0\Ordering.API.sourcelink.json

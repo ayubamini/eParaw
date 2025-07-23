@@ -13,3 +13,4 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
 C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.sourcelink.json
