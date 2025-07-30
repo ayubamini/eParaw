@@ -1,4 +1,5 @@
-﻿using Catalog.Application.Common.Models;
+﻿using Catalog.API.Attributes;
+using Catalog.Application.Common.Models;
 using Catalog.Application.Features.Products.Commands.CreateProduct;
 using Catalog.Application.Features.Products.Commands.DeleteProduct;
 using Catalog.Application.Features.Products.Commands.UpdateProduct;
@@ -16,6 +17,7 @@ namespace Catalog.API.Controllers
         /// Get products with pagination and filtering
         /// </summary>
         [HttpGet]
+        [Cache(180)] // Cache for 3 minutes
         [ProducesResponseType(typeof(PagedResult<ProductDto>), StatusCodes.Status200OK)]
         public async Task<ActionResult<PagedResult<ProductDto>>> GetProducts([FromQuery] GetProductsQuery query)
         {
@@ -26,6 +28,7 @@ namespace Catalog.API.Controllers
         /// Get a specific product by id
         /// </summary>
         [HttpGet("{id}")]
+        [Cache(300)] // Cache for 5 minutes
         [ProducesResponseType(typeof(ProductDetailDto), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<ProductDetailDto>> GetProduct(int id)

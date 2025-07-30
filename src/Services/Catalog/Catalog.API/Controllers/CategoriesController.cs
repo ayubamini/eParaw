@@ -1,6 +1,7 @@
-﻿using Catalog.Application.Features.Categories.Commands.CreateCategory;
-using Catalog.Application.Features.Categories.Commands.UpdateCategory;
+﻿using Catalog.API.Attributes;
+using Catalog.Application.Features.Categories.Commands.CreateCategory;
 using Catalog.Application.Features.Categories.Commands.DeleteCategory;
+using Catalog.Application.Features.Categories.Commands.UpdateCategory;
 using Catalog.Application.Features.Categories.Queries.GetCategories;
 using Catalog.Application.Features.Categories.Queries.GetCategoryById;
 using Microsoft.AspNetCore.Mvc;
@@ -14,6 +15,7 @@ namespace Catalog.API.Controllers
         /// Get all categories
         /// </summary>
         [HttpGet]
+        [Cache(600)] // Cache for 10 minutes (categories change less frequently)
         [ProducesResponseType(typeof(List<CategoryDto>), StatusCodes.Status200OK)]
         public async Task<ActionResult<List<CategoryDto>>> GetCategories([FromQuery] bool activeOnly = true)
         {
@@ -24,6 +26,7 @@ namespace Catalog.API.Controllers
         /// Get a specific category by id
         /// </summary>
         [HttpGet("{id}")]
+        [Cache(600)] // Cache for 10 minutes
         [ProducesResponseType(typeof(CategoryDetailDto), StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public async Task<ActionResult<CategoryDetailDto>> GetCategory(int id)

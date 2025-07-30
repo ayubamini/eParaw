@@ -136,3 +136,7 @@ C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Deb
 C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
 C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
 C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.Redis.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\My Drive\Programming\Projects\eParaw\src\Services\catalog\Catalog.API\bin\Debug\net8.0\StackExchange.Redis.dll

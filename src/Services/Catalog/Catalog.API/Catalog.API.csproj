@@ -17,6 +17,8 @@
 		<PackageReference Include="Serilog.Sinks.Console" Version="5.0.*" />
 		<PackageReference Include="Serilog.Sinks.File" Version="5.0.*" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.*" />
+		<PackageReference Include="AspNetCore.HealthChecks.Redis" Version="8.0.*" />
+		<PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="8.0.*" />
 	</ItemGroup>
 
 	<ItemGroup>

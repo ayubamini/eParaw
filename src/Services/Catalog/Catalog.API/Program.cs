@@ -39,9 +39,15 @@ builder.Services.AddCors(options =>
 builder.Services.AddApplication();
 builder.Services.AddInfrastructure(builder.Configuration);
 
-// Add health checks
+// Add health checks with Redis
 builder.Services.AddHealthChecks()
-    .AddDbContextCheck<Catalog.Infrastructure.Data.CatalogContext>();
+    .AddDbContextCheck<Catalog.Infrastructure.Data.CatalogContext>(
+        name: "catalog-db",
+        tags: new[] { "db", "sql", "postgres" })
+    .AddRedis(
+        builder.Configuration.GetConnectionString("Redis") ?? "localhost:6379",
+        name: "catalog-redis",
+        tags: new[] { "redis", "cache" });
 
 var app = builder.Build();
 
@@ -54,6 +60,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseSerilogRequestLogging();
 app.UseMiddleware<ErrorHandlerMiddleware>();
+app.UseResponseCaching(); // Add response caching middleware
 app.UseCors("CorsPolicy");
 app.UseHttpsRedirection();
 app.UseAuthorization();
